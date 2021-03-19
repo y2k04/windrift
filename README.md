@@ -1,7 +1,7 @@
 # windrift
 MacOS Drift Screensaver for Windows
 
-## (Both need to be downloaded in order for it to work!)
+**(Both need to be downloaded in order for it to work!)**
  - [Download Video for Screensaver](https://drive.google.com/file/d/1v-ZUKdi9c3nTF5sbVGZGU8L0wuRlCs7z/view)
  - [Download Screensaver](https://github.com/BlueJay113/windrift/raw/main/VideoScreensaver.scr)
 
