@@ -1,4 +1,14 @@
-# windrift
+## **This project has been discontinued. Superseeded by: [Flux by Sandydoo](https://github.com/sandydoo/flux)**
+```
+Thank you all for your support and interest in this project. t has been great knowing that people actually wanted this.
+Please visit Sandydoo's Flux GitHub project and show some support.
+
+Thank you again everyone.
+
+Y2K4
+```
+
+### windrift
 MacOS Drift Screensaver for Windows
 
 **(Both need to be downloaded in order for it to work!)**
