@@ -1,6 +1,6 @@
 ## **This project has been discontinued. Superseeded by: [Flux by Sandydoo](https://github.com/sandydoo/flux)**
 ```
-Thank you all for your support and interest in this project. t has been great knowing that people actually wanted this.
+Thank you all for your support and interest in this project. It has been great knowing that people actually wanted this.
 Please visit Sandydoo's Flux GitHub project and show some support.
 
 Thank you again everyone.
